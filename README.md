@@ -1,7 +1,9 @@
-🌿 GreenDen
+🌿 GREENDEN
+
 GreenDen is a modern, responsive gardening and eco-lifestyle web project built using Tailwind CSS. Designed with simplicity and beauty in mind, GreenDen provides an elegant UI for plant lovers, home gardeners, and anyone passionate about green living.
 
 🚀 Features
+
 🌱 Clean, minimal design with TailwindCSS
 
 📱 Fully responsive for all screen sizes
@@ -13,6 +15,7 @@ GreenDen is a modern, responsive gardening and eco-lifestyle web project built u
 🧭 Smooth navigation and intuitive layout
 
 🛠 Tech Stack
+
 Tailwind CSS – Utility-first CSS framework
 
 HTML5 / CSS
