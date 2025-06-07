@@ -24,7 +24,7 @@ HTML5 / CSS
 Responsive design for mobile and desktop
 This project helped me strengthen my frontend development skills and deepen my understanding of layout structuring and CSS styling techniques.
 
-🔗live link in Github []
+🔗live link in Github [https://deepa-1505.github.io/Greenden-Tailwindcss/]
 
 thank you.
 
